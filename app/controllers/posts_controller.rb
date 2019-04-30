@@ -7,6 +7,7 @@ class PostsController < ApplicationController
   end
 
   def edit
+    #comment
   end
 
   def update
